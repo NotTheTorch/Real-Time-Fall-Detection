@@ -46,3 +46,7 @@ streamlit run app.py
 4. 📈 View Accuracy & Loss plots after training.
 5. 🖼️ Upload a test image (.jpg, .png, .jpeg).
 6. 🤖 Click "Predict Fall" to classify the image.
+
+![Model Training Plot](images/screenshot1.png)
+![Fall Detection Demo](images/screenshot2.png)
+
